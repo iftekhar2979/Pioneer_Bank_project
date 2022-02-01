@@ -1,0 +1,48 @@
+body {
+    padding: 100px;
+}
+
+.submit-area {
+
+    margin-top: 50px;
+    border-radius: 30px;
+    box-shadow: 5px 5px 10px gray;
+    padding: 40px;
+
+}
+
+#transaction-area {
+    display: none;
+}
+
+.deposit {
+    background-color: slateblue;
+    padding: 20px 30px;
+    color: white;
+    font-size: 40px;
+    border-radius: 10px;
+}
+
+.withdrawal {
+    background: linear-gradient(45deg, red, blue);
+    padding: 20px 30px;
+    color: white;
+    border-radius: 10px;
+    font-size: 40px;
+}
+
+.balance {
+    background: linear-gradient(45deg, navy, yellow);
+    padding: 20px 30px;
+    color: white;
+    font-size: 40px;
+    border-radius: 10px;
+
+}
+.deposit-input{
+    margin-top: 40px;
+    box-shadow: 5px 5px 10px grey;
+    padding: 50px;
+    border-radius: 15px;
+
+}
